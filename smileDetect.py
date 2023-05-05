@@ -1,3 +1,4 @@
+#selfie_machine
 import cv2 as cv
 from time import sleep
 import numpy as  np
