@@ -26,4 +26,5 @@ while True:
         break
     sleep(0.1)
 vid.release()
-cv.destroyAllWindows()#day_12kumud.ipynb
+cv.destroyAllWindows()
+#day_12kumud.ipynb
